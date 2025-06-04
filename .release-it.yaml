@@ -1,0 +1,6 @@
+npm:
+  publish: false
+git:
+  commit: true
+  tag: true
+  
