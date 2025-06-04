@@ -13,7 +13,7 @@ jobs:
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-      - run: npm install -D release-it
+      - run: npm install -D release-it @release-it/conventional-changelog auto-changelog
       - run: npx release-it
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
