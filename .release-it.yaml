@@ -3,4 +3,4 @@ npm:
 git:
   commit: true
   tag: true
-  
+  requireCommits: true
