@@ -23,11 +23,4 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
-      - name: Run Changelog CI
-        uses: saadmk11/changelog-ci@v1.1.2
-        with:
-          # Optional, you can provide any name for your changelog file.
-          # defaults to ``CHANGELOG.md`` if not provided.
-          changelog_filename: CHANGELOG2.md
