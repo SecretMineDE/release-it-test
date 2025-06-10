@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/SecretMineDE/release-it-test/compare/v1.0.0...v1.0.1) (2025-06-10)
+
+
+### Bug Fixes
+
+* cleanup ([fa20e70](https://github.com/SecretMineDE/release-it-test/commit/fa20e70d201e51ab8acc648b4f3190f31a7ecfee))
+
 # 1.0.0 (2025-06-10)
 
 
