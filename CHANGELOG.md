@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/SecretMineDE/release-it-test/compare/v1.1.0...v1.2.0) (2025-06-17)
+
+
+### Features
+
+* add test file ([#1](https://github.com/SecretMineDE/release-it-test/issues/1)) ([c19ec14](https://github.com/SecretMineDE/release-it-test/commit/c19ec147bf53db549da35f20c08df0c61b17b837))
+
 # [1.1.0](https://github.com/SecretMineDE/release-it-test/compare/v1.0.1...v1.1.0) (2025-06-10)
 
 
